@@ -1,0 +1,2 @@
+# calculator
+performe aurithmatic operations
